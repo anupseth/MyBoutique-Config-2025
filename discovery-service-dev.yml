@@ -3,7 +3,7 @@ custom:
     message: "Welcome to the Eureka Application Dev"
     
 server:
-  port: '8071'
+  port: '8070'
 
 eureka:
   instance:
